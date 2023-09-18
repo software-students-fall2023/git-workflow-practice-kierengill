@@ -1,4 +1,4 @@
-# Git Practice
+# The Day in the Life of a Software Engineer
 
 Here's the link in to the article I found interesting!
 
