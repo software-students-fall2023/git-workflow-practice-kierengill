@@ -1,6 +1,6 @@
 # The Day in the Life of a Software Engineer
 
-Here's the link in to the article I found interesting!
+_Here's the link in to the article I found interesting!_
 
 [A Day in the Life of a Software Engineer](https://www.computerscience.org/software-engineering/careers/software-engineer/day-in-the-life/)
 
