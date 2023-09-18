@@ -9,4 +9,4 @@ This article provides insights into the typical activities and responsibilities 
 
 ## Edited by; Jazlene Darrisaw
 
-This article is really informative about the duties Software Engineers have on a daily basis and does a great job at explaining each one!
+This article is really informative about the duties Software Engineers have on a daily basis and does a great job at explaining each one!!
